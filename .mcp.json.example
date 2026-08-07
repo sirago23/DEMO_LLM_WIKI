@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "n8n": {
+      "command": "npx",
+      "args": ["-y", "n8n-mcp"],
+      "env": {
+        "N8N_API_URL": "https://your-instance.up.railway.app",
+        "N8N_API_KEY": "your_n8n_api_key_here"
+      }
+    }
+  }
+}
