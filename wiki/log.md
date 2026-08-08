@@ -5,6 +5,15 @@ Parse with: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-08-08] lint | Full lint pass
+- Orphans found: 0
+- Broken links: 0
+- Index gaps: 0
+- Stale dates: 1 fixed (concepts/damaged-missing-merchandise updated: 2026-08-07 → 2026-08-08)
+- Missing cross-references: 1 fixed (added [[sources/refund-policy-seattle-coffee-gear]] to damaged-missing-merchandise Related section)
+- Suggested new pages (no source yet): entities/open-box-equipment, entities/miele
+- Data gaps (from overview): product catalog, customer support hours, international shipping alternatives
+
 ## [2026-08-08] ingest | Refund Policy — Seattle Coffee Gear
 - Source: `raw/Refund policy _ Seattle Coffee Gear.pdf`
 - Pages created: sources/refund-policy-seattle-coffee-gear, concepts/refund-policy, concepts/return-process, concepts/like-new-condition

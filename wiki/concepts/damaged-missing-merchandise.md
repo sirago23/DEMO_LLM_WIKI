@@ -2,7 +2,7 @@
 title: "Damaged, Missing, and Defective Merchandise Policy"
 type: concept
 tags: [policy, damaged, returns, defective, claims]
-updated: 2026-08-07
+updated: 2026-08-08
 sources: [Shipping policy _ Seattle Coffee Gear.pdf]
 ---
 
@@ -48,3 +48,4 @@ How to report and resolve issues with damaged, missing, or defective items from 
 - [[concepts/order-cancellation-policy]]
 - [[concepts/refund-policy]]
 - [[entities/safonia-shipping-protection]]
+- [[sources/refund-policy-seattle-coffee-gear]]
