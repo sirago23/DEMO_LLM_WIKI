@@ -30,6 +30,7 @@ How to report and resolve issues with damaged, missing, or defective items from 
 - Contact SCG immediately if an item is not working or a consumable arrived expired
 - SCG will help set up a replacement and assist with troubleshooting
 - Have documentation of the defect ready to speed up the return/replacement process
+- **Replaced items receive a new return window:** 5 days from receipt of the replacement, or the remainder of the original purchase return window — whichever is longer
 
 ## Normal conditions (not defects)
 
@@ -45,4 +46,5 @@ How to report and resolve issues with damaged, missing, or defective items from 
 
 - [[concepts/shipping-policy]]
 - [[concepts/order-cancellation-policy]]
+- [[concepts/refund-policy]]
 - [[entities/safonia-shipping-protection]]
